@@ -1,0 +1,30 @@
+{
+  "repo": "nursing-home-talks",
+  "prefix": "nh",
+  "base_font": "20px",
+  "url": "https://w69gjcn72j-dotcom.github.io/nursing-home-talks/",
+  "en": {
+    "title": "Nursing Home Talks",
+    "short": "Nursing Home",
+    "appname": "Nursing Home",
+    "unit": "talk",
+    "units": "talks",
+    "grouplabel": "Series",
+    "tagline": "Short Bible talks for our nursing home and aged-care services — large type, plain words, one clear thing about Jesus.",
+    "description": "Bible talks given at nursing home and aged-care services by St Paul's Anglican Church Kogarah.",
+    "manifest": "nursing-home.webmanifest",
+    "index": "index.html"
+  },
+  "cn": {
+    "title": "安老院短讲",
+    "short": "安老院短讲",
+    "appname": "安老院短讲",
+    "unit": "讲道",
+    "units": "讲道",
+    "grouplabel": "系列",
+    "tagline": "为安老院和护理院崇拜预备的简短讲道——大字体、浅白的话，一个关于耶稣的清楚信息。",
+    "description": "高嘉华圣保罗圣公会在安老院及护理院崇拜中的圣经短讲。",
+    "manifest": "nursing-home-cn.webmanifest",
+    "index": "index-cn.html"
+  }
+}

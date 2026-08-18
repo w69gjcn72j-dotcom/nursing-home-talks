@@ -1,0 +1,32 @@
+{
+  "name": "安老院短讲 — 高嘉华圣保罗圣公会",
+  "short_name": "安老院短讲",
+  "description": "高嘉华圣保罗圣公会在安老院及护理院崇拜中的圣经短讲。",
+  "start_url": "./index-cn.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0e1a2b",
+  "theme_color": "#0e1a2b",
+  "lang": "zh-Hans",
+  "icons": [
+    {
+      "src": "nh-icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "nh-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "nh-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
